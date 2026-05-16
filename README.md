@@ -1,28 +1,23 @@
 <div align="center">
 
-# Prince Yadav
+# hi, i'm Prince.
 
-TypeScript · Next.js · Web Engineer
+i write TypeScript for fun and accidentally in production.
 
-[![Portfolio](https://img.shields.io/badge/princecodes.tech-000?style=flat-square&logo=vercel&logoColor=white)](https://princecodes.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prncexe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prncexe)
+[princecodes.tech](https://princecodes.tech) · [twitter](https://twitter.com/prncexe) · [linkedin](https://linkedin.com/in/prncexe)
 
 </div>
 
 ---
 
-Building **[Chronex](https://chronex.princecodes.tech)** — a multi-platform social media scheduler. TypeScript developer focused on Next.js, tRPC, and Cloudflare Workers. I prefer clean architecture over clever hacks.
+**things i've shipped:**
+
+**[Chronex](https://github.com/prncexe/chronex)** — multi-platform social media scheduler. schedule once, post everywhere, debug forever.
+
+**[exerun](https://github.com/prncexe/exerun)** — realtime collaborative code editor with live cursor presence. think google docs but for people who actually do things.
+
+**[rebar](https://github.com/prncexe/rebar)** — Next.js scaffolding CLI. because `create-t3-app` was cool until i had opinions.
 
 ---
 
-**Stack**
-
-<img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,postgres,cloudflare,docker" />
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prncexe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prncexe&layout=compact&theme=material-palenight&hide_border=true" height="160" />
-</div>
+**stack:** `Next.js` · `tRPC` · `Drizzle ORM` · `PostgreSQL` · `Cloudflare Workers` · `TypeScript` · `Turborepo`

@@ -1,23 +1,29 @@
 <div align="center">
 
-# hi, i'm Prince.
+# hey, i'm Prince.
 
-i write TypeScript for fun and accidentally in production.
+I like to **Code**.
 
-[princecodes.tech](https://princecodes.tech) · [twitter](https://twitter.com/prncexe) · [linkedin](https://linkedin.com/in/prncexe)
+[website](https://princecodes.tech) · [twitter](https://twitter.com/prncexe) · [linkedin](https://linkedin.com/in/prncexe)
 
 </div>
 
 ---
 
-**things i've shipped:**
+### things i've built
 
-**[Chronex](https://github.com/prncexe/chronex)** — multi-platform social media scheduler. schedule once, post everywhere, debug forever.
+**[chronex](https://github.com/prncexe/chronex)**  
+multi-platform social media scheduler. schedule once, post everywhere.
 
-**[exerun](https://github.com/prncexe/exerun)** — realtime collaborative code editor with live cursor presence. think google docs but for people who actually do things.
+**[rebar-js](https://github.com/prncexe/rebar-js)**  
+CLI for scaffolding JavaScript/TypeScript projects with support for multiple frameworks, runtimes, ORMs, databases, auth providers, and other stack choices — without the setup headache.
 
-**[rebar](https://github.com/prncexe/rebar)** — Next.js scaffolding CLI. because `create-t3-app` was cool until i had opinions.
+**[exerun](https://github.com/prncexe/exerun)**  
+real-time collaborative code editor with live cursor presence and an integrated code runner. think google docs, except the code actually executes.
+
 
 ---
 
-**stack:** `Next.js` · `tRPC` · `Drizzle ORM` · `PostgreSQL` · `Cloudflare Workers` · `TypeScript` · `Turborepo`
+
+
+> if it exists, i'll probably try rebuilding it for fun.
